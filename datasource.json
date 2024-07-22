@@ -1,0 +1,13 @@
+{
+	"id": "mitre-v5",
+	"name": "MITRE CVE v5",
+	"raw": [
+		{
+			"url": "https://github.com/vulsio/vuls-data-raw-mitre-v5",
+			"commit": "3556c51c3a497331564eba6415d2a9ef0bdc1ec0"
+		}
+	],
+	"extracted": {
+		"url": "https://github.com/vulsio/vuls-data-extracted-mitre-v5"
+	}
+}
