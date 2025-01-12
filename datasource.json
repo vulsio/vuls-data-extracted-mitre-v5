@@ -4,8 +4,8 @@
 	"raw": [
 		{
 			"url": "https://github.com/vulsio/vuls-data-raw-mitre-v5",
-			"commit": "721a002fba84f5108d1a6c041e13aed28341fa56",
-			"date": "2025-01-11T18:07:48Z"
+			"commit": "533518e90ff62cfa7cc3fa9aa6d15080c0ebde3f",
+			"date": "2025-01-12T06:07:29Z"
 		}
 	],
 	"extracted": {
